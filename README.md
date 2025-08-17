@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Aléxia Fernanda Alves de Andrade
+Matricula: 904175
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Google](images/Google.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Replit](images/Replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
